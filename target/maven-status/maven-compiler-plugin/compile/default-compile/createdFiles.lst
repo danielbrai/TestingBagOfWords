@@ -1,0 +1,5 @@
+model/Document.class
+app/Main.class
+model/BagOfWords.class
+model/BagOfWords$BagOfWordsBuilder.class
+model/Corpus.class
