@@ -1,5 +1,8 @@
 package enumerations.classes.resources.cards;
 
 public enum Filter {
-  SCRY, LOOK, TOP, LIBRARY
+  LIBRARY,
+  LOOK,
+  SCRY,
+  TOP
 }
